@@ -26,11 +26,25 @@ Part 1 details: Consists of 5 main pages:
 -Home page: Contains navigation of the other pages 
 
 
-Sitemap:
+Sitemap:Home page
+-About us Page
+-Contact us page
+-Services page
+-Products page(Links to the Mercedes, Audi, BMW pages )
+-Audi, Mercedes, BMW pages lead to delivery page.
 
 Changelog:
+18/08 - added the following pages: home, about us, servivces, products, contact us, audi, bmw and mercedes.
+19/08 - added information on home, about us, servivces, products and contact us.
+20/08 - worked on audi, bmw and mercedes.
+21/08 - added delivery page.
+22/08 - added the end page.
+23/08 - fixed all typos on all the pages.
 
 References:
+Mercedes logo - https://logos-world.net/mercedes-benz-logo/
+BMW logo - https://logos-world.net/bmw-logo/
+Audi logo - https://logos-world.net/audi-logo/
 
 
 =======
