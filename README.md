@@ -13,8 +13,8 @@ Products contains link for other pages Mercedes, Audi and BMW and these pages le
 
 Timeline and Milestones:
 -The HTML should be completed by 27 August 2025
--The CSS should be completed by and must be usuable by mobile devices
--The Javascript should be completed by ,resulting in a fully functional website
+-The CSS should be completed by 26 September 2025 and must be usuable by mobile devices
+-The Javascript should be completed by 19 November 2025 ,resulting in a fully functional website
 
 
 Part 1 details: Consists of 5 main pages: 
