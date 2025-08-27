@@ -1,5 +1,4 @@
 # part1
-<<<<<<< HEAD
 Project title: part1- Ghost Exotics
 
 Student name: Oregolele Mangwegape
@@ -45,12 +44,3 @@ References:
 Mercedes logo - https://logos-world.net/mercedes-benz-logo/
 BMW logo - https://logos-world.net/bmw-logo/
 Audi logo - https://logos-world.net/audi-logo/
-
-
-=======
-Project title:
-WEDE5020 part1: Ghost exotics
-Student information:
-Oregolele Mangwegape
-ST10471814
->>>>>>> 7654f78117ef78c76ff97203f5f1c9c50f171309
