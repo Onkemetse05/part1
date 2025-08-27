@@ -1,4 +1,5 @@
 # part1
+<<<<<<< HEAD
 Project title: part1- Ghost Exotics
 
 Student name: Oregolele Mangwegape
@@ -32,3 +33,10 @@ Changelog:
 References:
 
 
+=======
+Project title:
+WEDE5020 part1: Ghost exotics
+Student information:
+Oregolele Mangwegape
+ST10471814
+>>>>>>> 7654f78117ef78c76ff97203f5f1c9c50f171309
